@@ -39,7 +39,7 @@ makeVector <- function(x = numeric()) {
        getmean = getmean)
 }
 ```
-```rconsole
+```splus
 makeVector <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
