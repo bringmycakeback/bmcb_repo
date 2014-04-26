@@ -9,6 +9,7 @@ def computer_says(no):
 ```
 
 ```r
+# A comment
 makeVector <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
@@ -25,6 +26,8 @@ makeVector <- function(x = numeric()) {
 ```
 
 ```rout
+# A comment
+
 makeVector <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
@@ -40,6 +43,8 @@ makeVector <- function(x = numeric()) {
 }
 ```
 ```splus
+# A comment
+
 makeVector <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
@@ -55,6 +60,8 @@ makeVector <- function(x = numeric()) {
 }
 ```
 ```s
+# A comment
+
 makeVector <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
@@ -70,6 +77,8 @@ makeVector <- function(x = numeric()) {
 }
 ```
 ```
+# A comment
+
 makeVector <- function(x = numeric()) {
   m <- NULL
   set <- function(y) {
