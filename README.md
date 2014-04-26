@@ -8,7 +8,7 @@ def computer_says(no):
     print("computer says %s" % (no,))
 ```
 
-```r
+```{r }
 # A comment
 makeVector <- function(x = numeric()) {
   m <- NULL
